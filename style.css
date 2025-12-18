@@ -1,0 +1,107 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(0, 0, 148);
+}
+
+header {
+    text-align: center;
+    background-color: rgb(0, 0, 105);
+    color: white;
+}
+
+.c1 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.c1 a {
+    margin: 20px;
+    padding: 10px;
+    background-color: aqua;
+    border-radius: 40%;
+    text-decoration: none;
+}
+
+
+.c2 {
+   text-align: center;
+   color: aqua;
+}
+
+main img {
+    padding-bottom: 30px;
+    width: 350px;
+    height: 200px;
+}
+
+.riskofrain2 h1 {
+    color: green;
+}
+
+.p1 h1{
+    color: green;
+}
+
+.p1 a{
+    text-decoration: none;
+}
+
+.riskofrain2 a{ 
+    text-decoration: none;
+}
+
+.span1 {
+    font-size: 20px;
+    color: rgb(122, 121, 121);
+}
+
+.span1-1 {
+    color: white;
+    font-size: 20px;
+}
+
+.span2 {
+    color: white;
+}
+
+.riskofrain2 {
+    background-image:linear-gradient( black,black, rgb(97, 97, 97)) ;
+    width: 350px;
+}
+
+.p1 {
+    background-image:linear-gradient( black,black, rgb(97, 97, 97)) ;
+    width: 350px;
+}
+
+.p1-1 {
+    background-image:linear-gradient( black,black, rgb(97, 97, 97)) ;
+    width: 350px;
+    margin-left: 30px ;
+}
+
+.p1-1 a{
+    text-decoration: none;
+}
+
+.p1-1 h1{
+    color: green;
+}
+
+.div {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.div1 {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+footer {
+    background-color: aqua;
+    text-align: center;
+    color: white;
+}
