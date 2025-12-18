@@ -88,6 +88,12 @@ main img {
     color: green;
 }
 
+.p1-1-1 {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
 .div {
     display: flex;
     justify-content: center;
